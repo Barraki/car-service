@@ -1,0 +1,429 @@
+/* Стили для видеофона */
+.video-bg-1 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	overflow: hidden;
+	background: url(../images/bg/background0.jpg) no-repeat center center #f1f1f1;
+	background-size: cover;
+}
+.video-bg-2 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	overflow: hidden;
+	background: url(../images/bg/background0.jpg) no-repeat center center #f1f1f1;
+	background-size: cover;
+}
+.video-bg {
+}
+.video-bg video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+}
+/* Проверка на поддержку свойства object-fit: */
+@supports (object-fit: cover) {
+.video-bg > video {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+}
+/* Отключение видео для устройств с размером экрана менее 800px: */
+@media screen and (max-width: 800px) {
+.video-bg > video {
+	display: none!important;
+}
+}
+
+.light-bg {
+  position: relative;
+}
+
+.light-bg:before {
+  background-color: rgba(255,255,255, 0.94);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  content: '';
+} 
+/* Background Image Ways */  
+.overlay-black-1 {
+	position: absolute;
+	opacity: 0.1;
+	background-color: rgb(0, 0, 0);
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+.overlay-black-2 {
+	position: absolute;
+	opacity: 0.2;
+	background-color: rgb(0, 0, 0);
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+.overlay-black-3 {
+	position: absolute;
+	opacity: 0.3;
+	background-color: rgb(0, 0, 0);
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+.overlay-black-5 {
+	position: absolute;
+	opacity: 0.5;
+	background-color: rgb(0, 0, 0);
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+.overlay-black-7 {
+	opacity: 0.7;
+	background-color: rgb(0, 0, 0);
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	position: absolute !important;
+	z-index: 1;
+}
+.overlay-black-8 {
+	position: absolute;
+	opacity: 0.8;
+	background-color: rgb(0, 0, 0);
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+.overlay-black-9 {
+	position: absolute;
+	opacity: 0.9;
+	background-color: rgb(0, 0, 0);
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+.overlay-white {
+	position: absolute;
+	opacity: 0.9;
+	background-color: rgb(255, 255, 255);
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+.overlay-white-5 {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	opacity: 0.5;
+	background-color: rgb(255, 255, 255);
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+.overlay-white-8 {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	opacity: 0.8;
+	background-color: rgb(255, 255, 255);
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+.overlay-white-9 {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	opacity: 0.9;
+	background-color: rgb(255, 255, 255);
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+.bg-gray {
+	background: #f7f7f7;
+}
+.bg-gray-light {
+	background: #fefefe;
+}
+.background0 {
+	background-image: url(../images/bg/background0.jpg);
+	background-size: cover;
+}
+.background1 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/Audi-A3-Sportback-S-Line-Hatchback-Sedan-e04.jpg);
+	background-size: cover;
+}
+.background2 {
+	background-image: url(../images/bg/12.jpg);
+	background-size: cover;
+}
+.background3 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background3.jpg);
+	background-size: cover;
+}
+.background4 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background4.jpg);
+	background-size: cover;
+}
+.background5 {
+	background-image: url(../images/bg/background5.jpg);
+	background-size: cover;
+}
+.background6 {
+	background-image: url(../images/bg/background6.jpg);
+	background-size: cover;
+}
+.background7 {
+	background-image: url(../images/bg/slider_01.jpg);
+	background-size: cover;
+}
+.background8 {
+	background-image: url(../images/bg/background8.jpg);
+	background-size: cover;
+}
+.background9 {
+	background-image: url(../images/bg/background9.jpg);
+	background-size: cover;
+}
+.background10 {
+	background-image: url(../images/bg/background10.jpg);
+	background-size: cover;
+}
+.background11 {
+	background-image: url(../images/bg/background11.jpg);
+	background-size: cover;
+}
+.background12 {
+	background-image: url(../images/bg/background12.jpg);
+	background-size: cover;
+}
+.background13 {
+	background-image: url(../images/bg/background13.jpg);
+	background-size: cover;
+}
+.background14 {
+	background-image: url(../images/bg/background14.jpg);
+	background-size: cover;
+}
+.background15 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background15.jpg);
+	background-size: cover;
+}
+.background16 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background16.jpg);
+	background-size: cover;
+}
+.background17 {
+	background-image: url(../images/bg/background17.jpg);
+	background-size: cover;
+}
+.background18 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background18.jpg);
+	background-size: cover;
+}
+.background19 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background19.jpg);
+	background-size: cover;
+}
+.background20 {
+	background-image: url(../images/bg/map.png);
+	background-size: 50%  ;
+  
+	background-position: center right;
+	background-repeat: no-repeat;
+}
+.background21 {
+	background-image: url(../images/bg/wooman.png);
+	background-size: cover;    	
+  background-size: 45% ; 
+	background-position: bottom left;
+	background-repeat: no-repeat;
+}
+.background22 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background22.jpg);
+	background-size: cover;
+}
+.background23 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background23.jpg);
+	background-size: cover;
+}
+.background24 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background24.jpg);
+	background-size: cover;
+}
+.background25 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background25.jpg);
+	background-size: cover;
+}
+.background26 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background26.jpg);
+	background-size: cover;
+}
+.background27 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background27.jpg);
+	background-size: cover;
+}
+.background28 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background28.jpg);
+	background-size: cover;
+}
+.background29 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background29.jpg);
+	background-size: cover;
+}
+.background30 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background30.jpg);
+	background-size: cover;
+}
+.background31 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background31.jpg);
+	background-size: cover;
+}
+.background32 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background32.jpg);
+	background-size: cover;
+}
+.background33 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background33.jpg);
+	background-size: cover;
+}
+.background34 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background34.jpg);
+	background-size: cover;
+}
+.background35 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background35.jpg);
+	background-size: cover;
+}
+.background36 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background36.jpg);
+	background-size: cover;
+}
+.background37 {
+	background-image: url(../images/bg/background37.jpg);
+	background-size: cover;
+}
+.background38 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background38.jpg);
+	background-size: cover;
+}
+.background39 {
+	background-image: url(../images/bg/background39.jpg);
+	background-size: cover;
+}
+.background40 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background40.jpg);
+	background-size: cover;
+}
+.background41 {
+	background-image: url(../images/bg/background9.jpg);
+	background-size: cover;
+}
+.background42 {
+	background-image: url(../images/bg/bg-ft.png);
+	background-size: cover;
+}
+.background43 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/1.jpg);
+	background-size: cover;
+}
+.background44 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background44.jpg);
+	background-size: cover;
+}
+.background45 {
+	background-image: url(../images/bg/slide02.jpg);
+	background-size: cover;
+}
+.background46 {
+	background-image: url(../images/bg/background46.jpg);
+	background-size: cover;
+}
+.background47 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background47.jpg);
+	background-size: cover;
+}
+.background48 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background48.jpg);
+	background-size: cover;
+}
+.background49 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background49.jpg);
+	background-size: cover;
+}
+.background50 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background50.jpg);
+	background-size: cover;
+}
+.background51 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background51.jpg);
+	background-size: cover;
+}
+.background52 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background52.jpg);
+	background-size: cover;
+}
+.background53 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background53.jpg);
+	background-size: cover;
+}
+.background54 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background54.jpg);
+	background-size: cover;
+}
+.background55 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background55.jpg);
+	background-size: cover;
+}
+.background56 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background56.jpg);
+	background-size: cover;
+}
+.background57 {
+	background-image: url(https://autorul.com.ua/assets/images/bg/background57.jpg);
+	background-size: cover;
+}
+/* Parallax Classes */
+body.parallax .parallax, body.parallax .parallax1, body.parallax .parallax2, body.parallax .parallax3, body.parallax .parallax4, body.parallax .parallax5, body.parallax .parallax6, body.parallax .parallax7, body.parallax .parallax8, body.parallax .parallax9, body.parallax .parallax10, body.parallax .parallax11, body.parallax .parallax12 {
+	background-attachment: fixed;
+	background-size: cover;
+}
