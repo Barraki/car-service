@@ -853,14 +853,15 @@ section#features .feature-boxes.type-4 .feature-box:hover .feature-icon {
 	background: none;
 	border: 1px solid #bbb;
 	margin: 5px auto;
-	min-height: 40px;
+	min-height: 60px;
 	width: 100%;
 	padding: 10px;
-	font-size: 14px;
+	font-size: 18px;
 	font-weight: 300;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
-	border-radius: 30px;
+  border-radius: 30px;
+  padding-left: 30px;
 }
 .contact_info form textarea {
 	min-height: 148px;
@@ -1577,3 +1578,47 @@ section#features .feature-boxes.type-4 .feature-box:hover .feature-icon {
 ul.mobile-boxes { 
     background-size: 60%; 
 }}
+
+.space-between {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+footer {
+  padding: 15px 0
+}
+
+.contact_info-footer .form-holder {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+
+.contact_info-footer .form-holder .form-side {
+  padding: 0 15px;
+}
+
+.contact_info-footer .feedback {
+  width: 400px !important;
+  padding: 14px 22px;
+}
+.justify-content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column; 
+  align-items: center;
+}
+
+
+@media all and (max-width: 767px) {
+  .contact_info-footer .form-holder {
+    flex-direction: column;
+  }
+  footer .space-between {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+  }
+
+}
