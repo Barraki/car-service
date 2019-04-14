@@ -7,9 +7,9 @@
 <!--<![endif]-->
 <head>
 <meta charset="utf-8" />
-<title>Автомагазин «Авторуль» - продажа автозапчастей в Северодонецке. Доставка по Украине. Гарантия на все комплектующие.</title>
-<meta name="description" content="Купить автозапчасти в Северодонецке по выгодной цене. Подбор и заказ запчастей: (050) 027-33-49" />  
-<meta name="keywords" content="автомагазин авторуль, автомагазин, авторуль, авторуль северодонецк, автомагазин северодонецк, авто магазин северодонецк" />
+<title>Магазин Автозапчастей</title>
+<meta name="description" content="Купить автозапчасти в Крыму по выгодной цене" />  
+<meta name="keywords" content="автомагазин, автомагазин, автомагазин крым, авто магазин крым" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
 <link rel="shortcut icon" href="assets/images/favicon.ico" />
@@ -25,7 +25,7 @@
 <link rel="stylesheet" href="assets/css/media.css" />
 <link rel="stylesheet" href="assets/css/backgrounds.css" />
 <link rel="stylesheet" href="assets/css/gold.css" />
-
+<script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A053bd947d462cc1a45aeba4070defff75501905071c0eaf68436ac9976ec698c&amp;id=mymap"></script>
 </head>
 <body>
 <!-- Fixed navbar -->
@@ -66,9 +66,8 @@
       <ul class="nav navbar-nav navbar-right text-center">        
         <li class="text-center">               
           <span class="phone">                      
-            <span class="top-phone">(050) 027-33-49
-            </span>          
-          </span><br />          
+            <span class="top-phone">+7 (978) 922 92 22</span>          
+          </span><br>          
           <span class="call-back modal_btn2">            
             <i class="fa fa-mobile"></i> Мы вам перезвоним           
           </span>        
@@ -88,9 +87,8 @@
           <img src="assets/images/logo/logo_white.png" alt="logo" class="img-responsive" /></a>      
       </div>      
       <div class="col-md-6 col-sm-6 col-xs-12 pull-right">          
-        <div class="text-right">         Подбор и заказ запчастей, c 08:00 до 18:00         
-          <span class="top-phone">(050) 027-33-49, (097) 672-65-37         
-          </span>          
+        <div class="text-right">         Подбор и заказ запчастей, c 10:00 до 18:00         
+          <span class="top-phone">+7 (978) 922 92 22</span>          
           <span class="call-back modal_btn2">          
             <i class="fa fa-mobile"></i> Позвонить нам бесплатно         
           </span>        
@@ -99,14 +97,14 @@
     </div>    
     <div class="row">           
           <div class="title-center">        
-            <h1 class="wow fadeInDown" data-wow-delay="0.3s">Хотите быстро найти и купить запчасти?</h1>        
+            <h1 class="wow fadeInDown" data-wow-delay="0.3s">Хотите быстро найти и купить запчасти в республике крым?</h1>        
             <p class="lead wow fadeInUp" data-wow-delay="0.7s">Быстрый подбор запчастей за 5 минут. Оригинальные и качественные аналоги.
             </p>        
             <p>         
               <span class="myButton modal_btn wow fadeInUp" data-wow-delay="1.2s">Оставить заявку на подбор запчасти         
               </span>        
             </p>  
-            <p class="lead wow fadeInUp" data-wow-delay="1s">Скидка 3% на весь товар при заказе через сайт до 30.01.2019 г.        
+            <p class="lead wow fadeInUp" data-wow-delay="1s">Скидка 3% на весь товар при заказе через сайт до 31.05.2019 г.        
             </p>     
           </div>      
     </div>  
@@ -116,7 +114,7 @@
   <div class="container">    
     <div class="row">      
       <div class="col-md-12">        
-        <h2 class="yell-border wow fadeInUp">Подберём запчасти для популярных марок автомобилей</h2>        
+        <h2 class="yell-border wow fadeInUp">Подберём запчасти для всех марок автомобилей</h2>        
         <div class="carousel">          
           <div class="item">            
              
@@ -531,9 +529,8 @@
           <div class="mobile-icon">            
             <a href="" class="mobile-icon">1 </a>          
           </div><h4>Быстрая доставка</h4>          
-          <p>Вам лишь необходимо согласовать время и день доставки. По договорённости осуществляем доставку товаров в выходные и праздничные дни. Все подробности по стоимости и срокам доставки можно уточнить по телефону:<br />
-            <span class="phone-service">(050) 027-33-49<br />(097) 672-65-37
-            </span>          
+          <p>Вам лишь необходимо согласовать время и день доставки. По договорённости осуществляем доставку товаров в выходные и праздничные дни. Все подробности по стоимости и срокам доставки можно уточнить по телефону:<br>
+            <span class="phone-service">+7 (978) 922 92 22<br></span>          
           </p>        
         </div>        
         <div class="buttons">          
@@ -570,8 +567,8 @@
         <div class="details">          
           <div class="mobile-icon">            
             <a href="" class="mobile-icon">3 </a>          
-          </div><h4>Доставка по Украине</h4>          
-          <p>Доставка в регионы Украины транспортной компанией - по предоплате. Работаем с Новой Почтой. Все подробности по срокам и стоимости доставки уточняйте у менеджера.            
+          </div><h4>Доставка по Крыму</h4>          
+          <p>Доставка по&nbsp; Крыму транспортной компанией - по предоплате. Все подробности по срокам и стоимости доставки уточняйте у менеджера.            
           </p>        
         </div>        
         <div class="buttons">          
@@ -617,7 +614,7 @@
   <div class="container">    
     <h2 class=" txt-46 txt-yell-title animated" data-animation="fadeIn" data-animation-delay="100">      
       <span class="txt-gray-title">Как       
-      </span> <br />происходит процедура <br />        
+      </span> <br>происходит процедура <br>        
       <span class="txt-gray-title">покупки запчасти       
       </span></h2>    
     <p class="lead light mar-0 animated" data-animation="fadeIn" data-animation-delay="100">Предоставим всю необходимую помощь в процессе покупки запчасти      
@@ -637,11 +634,10 @@
                 <div class="content">                  
                   <p>Самый простой способ – позвонить нам и заказать деталь. Так же вы можете заказать бесплатный звонок или оформить заявку, заполнив простую форму.                   
                   </p>
-                  <p>Скидка 3% на весь товар при заказе через сайт до 30.01.2019 г.        
+                  <p>Скидка 3% на весь товар при заказе через сайт до 31.05.2019 г.        
                   </p>                   
-                  <p>Звоните прямо сейчас! <br />                      
-                    <span class="top-phone">(050) 027-33-49, (097) 672-65-37
-                    </span> <br />                    
+                  <p>Звоните прямо сейчас! <br>                      
+                    <span class="top-phone">+7 (978) 922 92 22&nbsp;</span> <br>                    
                     <span class="call-back-white modal_btn2">
                       <i class="fa fa-mobile"></i> Заказать бесплатный звонок
                     </span>                  
@@ -690,8 +686,7 @@
               </div>              
               <div class="content-box">                
                 <div class="content">                  
-                  <p>Вы говорите, куда привести запчасть. Доставка в регионы Украины транспортной компанией - по предоплате. Работаем с Новой Почтой. Все подробности по срокам и стоимости доставки можно уточнить у менеджера. Вы также можете забрать товар из магазина в г. Северодонецк по адресу ул. Науки 22 (справа от Новой Почты)                   
-                  </p>                
+                  <p>Вы говорите, куда привести запчасть. Доставка по ЮФО Крым транспортной компанией - по предоплате. Работаем с СДЕК, КИТ, Деловые Линии, Почта России. Все подробности по срокам и стоимости доставки можно уточнить у менеджера. Вы также можете забрать товар из магазина в г. Ялта по адресу ул. Кирова 83б офис 4-6</p>                
                 </div>              
               </div>            
             </div>            
@@ -724,10 +719,8 @@
       <div class="col-md-7">        <h2>Варианты оплаты</h2>  
         <p class="lead">Оплату можно производить 2 способами:
         </p>  	
-        <p>		<strong>Наличными</strong> - при самовывозе из пункта выдачи интернет-магазина по адресу г. Северодонецк, ул. Науки 22 (справа от Новой Почты).
-        </p>	
-        <p>		<strong>Банковский перевод (ПриватБанк)</strong> - способ оплаты, при котором покупатель делает 100% предоплату (дешевле) на указанные реквизиты. Груз отправляется только после зачисления перевода на наш счет.
-        </p>          
+        <p>		<strong>Наличными</strong> - при самовывозе из пункта выдачи интернет-магазина по адресу&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; г. Ялта ул. Кирова 83б офис 4-6</p>	
+        <p>		<strong>Безналичный расчет</strong> - мы осуществляем расчет с государственными и коммерческими предприятиями, согласно законодательству РФ.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;С возможностью отсрочки платежа.</p>          
         <span class="myButton modal_btn">Подобрать запчасти         
         </span>      
       </div>    
@@ -813,10 +806,10 @@
         </p>
         <p>	Вы можете отказаться от заказаного Вами товара, в случае, если доставленный товар не соответствует тому, что вы заказывали и товар может быть возвращен непосредственно в момент доставки. Товар должен быть возвращен в своей оригинальной упаковке с сопровождающими посылку документами.&nbsp;Если у вас возникают вопросы, пожалуйста, свяжитесь с нашим отделом обслуживания по e-mail или по телефону:
         </p>
-        <p>	Тел.: &nbsp;<b>(050) 027-33-49, (097) 672-65-37</b>
+        <p>	Тел.: &nbsp;<b>+7 (978) 922 92 22</b>
         </p>
         <p>	E-mail: 
-          <a href="mailto:autorul8888@gmail.com">autorul8888@gmail.com</a>
+          <a href="mailto:autorul8888@gmail.com">yalta-invest@bk.ru</a>
         </p>
         <p>	С уважением, Администрация.
         </p>   
@@ -831,7 +824,7 @@
     <div class="row">      
       <div class="col-md-10 col-lg-10 col-md-offset-1 col-sm-offset-1">        
         <div class="page_title text-center">          
-          <h2 class="">Контактная информация</h2>        
+          <h2 class="">ЗАКАЗ ДЕТАЛИ</h2>        
         </div>      
       </div>    
     </div>    
@@ -841,7 +834,7 @@
           <div class="s_contuct_icon">            
             <i class="fa fa-clock-o"></i>          
           </div><h3>График работы</h3>          
-          <p>Пн-Пт: 08:00 - 18:00<br />Сб: 09:00 - 15:00<br />Вс: выходной
+          <p>Пн-Пт: 10:00 - 18:00<br>Сб: 10:00 - 14:00<br>Вс: выходной
           </p>        
         </div>      
       </div>      
@@ -851,8 +844,7 @@
             <i class="fa fa-phone"></i>          
           </div><h3>Телефон</h3>          
           <p>            
-            <span class="footer-phone">(050) 027-33-49, (097) 672-65-37
-            </span><br />            
+            <span class="footer-phone">+7 (978) 922 92 22</span><br>            
             <span class="call-back modal_btn2">              
               <i class="fa fa-mobile"></i> Заказать обратный звонок              
             </span>                                          
@@ -865,16 +857,15 @@
             <i class="fa fa-envelope-o"></i>          
           </div><h3>E-mail</h3>          
           <p>            
-            <a href="mailto:vw@zaphasty.ru" class="">autorul8888@gmail.com</a>            
+            <a href="mailto:vw@zaphasty.ru" class="">yalta-invest@bk.ru</a>            
           </p>        
         </div>      
       </div>    
     </div>    
     <div class="row">      
       <div class="col-md-12 text-center">        
-        <h3 class="m-bot-15">Оставьте заявку на подбор запчасти</h3>        
-        <p class="lead text-center">После отправки заявки мы с Вами свяжемся <br />по указанным контактам для уточнения деталей          
-        </p>      
+        <h3 class="m-bot-15"></h3>        
+        <p class="lead text-center"><br></p>      
       </div>      
       <div class="col-md-6 col-md-offset-3">        
         <div class="contact_info text-center">          
@@ -894,16 +885,13 @@
   </div>
 </section>
 <section id="map" class="bg-gray">   
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10483.06142018524!2d38.5090394!3d48.9389109!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xef4e6a7bef3a60c6!2z0JDQstGC0L7QvNCw0LPQsNC30LjQvSAi0JDQstGC0L7RgNGD0LvRjCI!5e0!3m2!1sru!2sua!4v1529805138316" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen>
-  </iframe>
-</section>
+<div id="mymap" style="width: 100%; height: 400px"></div></section>
 <section id="footer" class="bg-gray">     
   <div class="container">     
     <div class="row">             
       <div class="col-md-4">           &copy; Магазин автозапчастей «Авторуль»
       </div>          
-      <div class="col-md-4 text-center"> г. Северодонецк, ул. Науки 22 (справа от Новой Почты)             
-      </div>         
+      <div class="col-md-4 text-center">г. Ялта ул. Кирова 83б офис 4-6</div>         
       <div class="col-md-4 text-right">                    
         <span class="modal_btn_copy">Политика конфиденциальности            
         </span>                
@@ -1014,7 +1002,7 @@ $('#big-modal-copy').arcticmodal();
         <div class="contact_form">          
           <div class="row">            
             <div class="col-md-12">              
-              <p class="lead text-center">После отправки заявки мы с Вами свяжемся <br />по указанным контактам для уточнения деталей                
+              <p class="lead text-center">После отправки заявки мы с Вами свяжемся <br>по указанным контактам для уточнения деталей                
               </p>              
               <form action="" method="get" name="form-2">                
                 <div class="input-prepend">
@@ -1057,7 +1045,7 @@ $('#big-modal-copy').arcticmodal();
               </p>            
               <p>Когда Вы регистрируетесь на нашем сайте с целью получения услуг, какой-либо справочной информации или обратной связи, Вы автоматически даете согласие на обработку нами Ваших персональных данных, а также иной информации: хранение, использование и сбор. Мы гарантируем, что Ваши личные и персональные данные никогда не будут переданы третьим лицам.               
               </p>            
-              <p>Все указываемые персональные данные, такие как:<br /> • адрес электронной почты,<br /> • Ваше имя,<br /> • контактный номер телефона               
+              <p>Все указываемые персональные данные, такие как:<br> • адрес электронной почты,<br> • Ваше имя,<br> • контактный номер телефона               
               </p>            
               <p>Мы используем исключительно для связи с Вами в следующих случаях: сообщение информации о действующих акциях или новых услугах/продуктах, ответ на вопросы, обработка Ваших заявок.               
               </p>          
