@@ -123,6 +123,7 @@ $('form[name="form-1"], form[name="form-2"]').submit(function () { //Change
 		url: "../controllers/mail.php", //Change
 		data: th.serialize(),
 		beforeSend: function () {
+      $('#big-modal2').arcticmodal();
       $('.contact_form, #signup-header').empty();
       $('.contact_form').append('<img src="/assets/images/elements/lg.curve-bars-loading-indicator.gif">');
 		}
@@ -140,6 +141,12 @@ $('form[name="form-1"], form[name="form-2"]').submit(function () { //Change
 });
 
 //E-mail Ajax Send
+
+
+
+
+//E-mail Ajax Send
+
 
 
 });
