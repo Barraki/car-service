@@ -28,12 +28,7 @@
   <link rel="stylesheet" href="/assets/css/media.css" />
   <link rel="stylesheet" href="/assets/css/backgrounds.css" />
   <link rel="stylesheet" href="/assets/css/gold.css" />
-  <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A23def4c814de3e7338f5822ff674028a5cb84073f9476c9cf3c327cfd8421b12&amp;width=100%25&amp;height=400&amp;lang=ru_UA&amp;scroll=true&amp;id=mymap""></script>
-  <script>
-  
-
-
-  </script>
+  <script type="text/javascript" charset="utf-8" async src="//api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A23def4c814de3e7338f5822ff674028a5cb84073f9476c9cf3c327cfd8421b12&amp;width=100%25&amp;height=400&amp;lang=ru_UA&amp;scroll=true&amp;id=mymap""></script>
 </head>
 
 <body>
@@ -131,7 +126,7 @@
             <div class="item">
 
               <div class="brand-preview">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -142,11 +137,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Audi</a>
+                  <a rel="nofollow">Audi</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -157,11 +152,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">BMW</a>
+                  <a rel="nofollow">BMW</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -172,11 +167,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Chery</a>
+                  <a rel="nofollow">Chery</a>
                 </div>
               </div>
               <div class="brand-preview">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -187,11 +182,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Chevrolet</a>
+                  <a rel="nofollow">Chevrolet</a>
                 </div>
               </div>
               <div class="brand-preview">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -202,11 +197,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Citroen</a>
+                  <a rel="nofollow">Citroen</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -217,11 +212,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Dacia</a>
+                  <a rel="nofollow">Dacia</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -232,11 +227,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Daewoo</a>
+                  <a rel="nofollow">Daewoo</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -247,11 +242,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Fiat</a>
+                  <a rel="nofollow">Fiat</a>
                 </div>
               </div>
               <div class="brand-preview">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -262,11 +257,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Ford</a>
+                  <a rel="nofollow">Ford</a>
                 </div>
               </div>
               <div class="brand-preview">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -277,11 +272,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Honda</a>
+                  <a rel="nofollow">Honda</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -292,11 +287,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Hyundai</a>
+                  <a rel="nofollow">Hyundai</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -307,11 +302,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Kia</a>
+                  <a rel="nofollow">Kia</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -322,11 +317,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Lexus</a>
+                  <a rel="nofollow">Lexus</a>
                 </div>
               </div>
               <div class="brand-preview">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -337,11 +332,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Mazda</a>
+                  <a rel="nofollow">Mazda</a>
                 </div>
               </div>
               <div class="brand-preview">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -352,11 +347,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Mercedes Benz</a>
+                  <a rel="nofollow">Mercedes Benz</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -367,11 +362,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Mitsubishi</a>
+                  <a rel="nofollow">Mitsubishi</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -382,11 +377,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Nissan</a>
+                  <a rel="nofollow">Nissan</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -397,11 +392,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Opel</a>
+                  <a rel="nofollow">Opel</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -412,11 +407,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Peugeot</a>
+                  <a rel="nofollow">Peugeot</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -427,11 +422,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Renault</a>
+                  <a rel="nofollow">Renault</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -442,11 +437,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Seat</a>
+                  <a rel="nofollow">Seat</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -457,11 +452,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Skoda</a>
+                  <a rel="nofollow">Skoda</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -472,11 +467,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">SsangYong</a>
+                  <a rel="nofollow">SsangYong</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -487,11 +482,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">BYD</a>
+                  <a rel="nofollow">BYD</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -502,11 +497,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Geely</a>
+                  <a rel="nofollow">Geely</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -517,11 +512,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Great Wall</a>
+                  <a rel="nofollow">Great Wall</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -532,11 +527,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Subaru</a>
+                  <a rel="nofollow">Subaru</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -547,11 +542,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Toyota</a>
+                  <a rel="nofollow">Toyota</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -562,11 +557,11 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Volvo</a>
+                  <a rel="nofollow">Volvo</a>
                 </div>
               </div>
               <div class="brand-preview ">
-                <a rel="nofollow" href="#">
+                <a rel="nofollow">
                   <table class="reset brand-image-table">
                     <tbody>
                       <tr>
@@ -577,7 +572,7 @@
                   </table>
                 </a>
                 <div class="brand-name">
-                  <a rel="nofollow" href="#">Volkswagen</a>
+                  <a rel="nofollow">Volkswagen</a>
                 </div>
               </div>
 
@@ -796,11 +791,14 @@
   <section id="payment" class="bg-gray">
     <div class="container">
       <div class="row">
-        <div class="col-md-5 pt-5 wow fadeInLeft" data-wow-delay="0.5s">
+        <div class="col-md-5 pt-5 wow fadeInLeft desktop" data-wow-delay="0.5s">
         <i class="fas fa-money-check-alt"></i>
         </div>
         <div class="col-md-7">
           <h2>Варианты оплаты</h2>
+          <div class="col-md-5 pt-5 wow fadeInLeft mobile" data-wow-delay="0.5s">
+        <i class="fas fa-money-check-alt"></i>
+        </div>
           <p class="lead">Оплату можно производить 2 способами:
           </p>
           <p> <strong>Наличными</strong> - при самовывозе из пункта выдачи интернет-магазина по адресу <br> г. Ялта ул. Кирова 83б офис 4-6</p>
@@ -870,12 +868,12 @@
             <form action="/controllers/mail.php" method="get" name="form-1">
               <div class="form-holder">
                 <div class="form-side">
-                  <input name="phone" type="tel" placeholder="Ваш телефон" require />
-                  <input name="type" type="text" placeholder="Марка" require/>
+                  <input name="phone" type="tel" placeholder="Ваш телефон" required/>
+                  <input name="type" type="text" placeholder="Марка" required/>
                 </div>
                 <div class="form-side">
-                  <input name="model" type="text" placeholder="Модель" require/>
-                  <input name="number" type="text" placeholder="Номер кузова" require/>
+                  <input name="model" type="text" placeholder="Модель" required/>
+                  <input name="number" type="text" placeholder="Номер кузова" required/>
                 </div>
               </div>
               <button class="feedback myButton" name="send" type="submit">Отправить заявку
@@ -1019,7 +1017,7 @@
                 <div class="col-md-12 contact_info">
                   <form action="/controllers/mail.php" method="get" name="form-1">
                     <div class="input-prepend">
-                      <input name="phone" type="tel" placeholder="Введите контактный телефон" require/>
+                      <input name="phone" type="tel" placeholder="Введите контактный телефон" required/>
                     </div>
                     <button class="feedback myButton" name="send" type="submit">Перезвоните мне
                     </button>
@@ -1054,12 +1052,12 @@
    
                   <div class="form-holder">
                 <div class="form-side">
-                  <input name="phone" type="tel" placeholder="Ваш телефон" require/>
-                  <input name="type" type="text" placeholder="Марка" require/>
+                  <input name="phone" type="tel" placeholder="Ваш телефон" required/>
+                  <input name="type" type="text" placeholder="Марка" required/>
                 </div>
                 <div class="form-side">
-                  <input name="model" type="text" placeholder="Модель" require/>
-                  <input name="number" type="text" placeholder="Номер кузова" require/>
+                  <input name="model" type="text" placeholder="Модель" required/>
+                  <input name="number" type="text" placeholder="Номер кузова" required/>
                 </div>
               </div>
                     <button class="feedback myButton" name="send" type="submit">Подобрать запчасти
