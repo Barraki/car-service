@@ -47,6 +47,9 @@ ul.mobile-boxes {
 	text-align: center;
 }
 
+.count-block i {
+  font-size: 50px;
+}
 }
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
@@ -100,6 +103,59 @@ ul.mobile-boxes li h4 {
 .hour-box .toggle-btn h3 {
 	margin-top: 10px;
 }
+}
+
+@media only screen and (max-width: 767px) {
+  .count-blocks {
+    flex-direction: column;
+    margin-right: 0;
+  }
+  
+  .count-block:last-child{
+    margin: 0 auto
+  }
+  
+  .count-block {
+    width: 95%;
+    margin-bottom: 30px;
+    min-width: 312px;
+    margin-right: 0;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  .mobile-boxes {
+    margin-left: 0;
+  }
+
+  .brand-preview {
+    display: none;
+  }
+  .item {
+    display: flex;
+    flex-wrap: wrap
+  }
+  .brand-preview:nth-child(1), .brand-preview:nth-child(2), .brand-preview:nth-child(3),
+  .brand-preview:nth-child(4), .brand-preview:nth-child(5), .brand-preview:nth-child(6) {
+    display: block;
+    flex-grow: 1;
+  }
+
+  #payment i {
+    font-size: 150px;
+  }
+
+  .contact_info-footer .feedback {
+    width: 100% !important;
+  }
+
+  .myButton {
+    font-size: 17px;
+    padding: 20px 18px;
+  }
+
+  #payment {
+    padding-top: 10px;
+  }
 }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {

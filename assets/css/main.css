@@ -250,7 +250,7 @@ background-color: #e9292a;
     cursor: pointer;
     color: #fff;
     font-size: 19px;
-    padding: 8px 22px;
+    padding: 20px 22px;
     text-decoration: none;
     font-family: RobotoLight;
     font-weight: 700;
@@ -866,18 +866,14 @@ section#features .feature-boxes.type-4 .feature-box:hover .feature-icon {
 .contact_info form textarea {
 	min-height: 148px;
 }
-.contact_info form button {
-	100%;
-}
+
 .contact_info form input:focus, .contact_info form textarea:focus {
 	outline: none;
 	border: 1px solid #999;
 	color: #333;
 	background: #fff;
 }
-.contact_info .myButton {
-	width: 100%!important;
-}
+
 .contact_info h4 {
 	font-size: 28px;
 	font-weight: 700;
@@ -1502,6 +1498,7 @@ section#features .feature-boxes.type-4 .feature-box:hover .feature-icon {
 	font-size: 22px;
 	display: block;
 }
+
 #contacts .call-back {
 	border-bottom: 1px dotted #fff;
 	cursor: pointer;
@@ -1568,6 +1565,79 @@ section#features .feature-boxes.type-4 .feature-box:hover .feature-icon {
 
 #brand {background: #ffc812;}
 
+.logo-text {
+  font-family: 'Russo One', sans-serif;
+  font-size: 35px;
+  color: #fff;
+}
+
+.logo-text:hover {
+  color: #fff;
+}
+
+.doc-link {
+  position: absolute;
+}
+
+.black {
+  color: #000;
+}
+
+.logo-text.black {
+  margin-top: 24px;
+  display: block;
+  font-size: 18px;
+}
+
+.black:hover {
+  color: #000;
+
+}
+
+.count-block {
+  background-color: #fff;
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin-right: 30px;
+  position: relative;
+  min-height: 120px;
+
+}
+
+.count-block:last-child {
+  margin-right: 0;
+}
+
+.count-block .count {
+  font-size: 60px;
+  font-weight: 900;
+  color: #e9292a;
+}
+
+.count-block .caption {
+  font-size: 19px;
+}
+
+.count-block i {
+  font-size: 90px;
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  color: #dce4e6
+}
+
+.mb-45 {
+
+  margin-bottom: 45px;
+}
+
+
+#payment i {
+  font-size: 275px;
+  color: #e9292a;
+}
 
 @media (min-width: 991px) {
 .container > .navbar-header {

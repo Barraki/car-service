@@ -14,19 +14,26 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="shortcut icon" href="assets/images/favicon.ico" />
-  <link rel="stylesheet" href="assets/libs/bootstrap/css/bootstrap.css" />
-  <link rel="stylesheet" href="assets/libs/font-awesome-4.3.0/css/font-awesome.min.css" />
-  <link rel="stylesheet" href="assets/libs/fancybox/jquery.fancybox.css" />
-  <link rel="stylesheet" href="assets/libs/owl-carousel/owl.carousel.css" />
-  <link rel="stylesheet" href="assets/libs/countdown/jquery.countdown.css" />
-  <link rel="stylesheet" href="assets/feedback/css/jquery.arcticmodal.css">
-  <link rel="stylesheet" href="assets/css/animate.css" />
-  <link rel="stylesheet" href="assets/css/fonts.css" />
-  <link rel="stylesheet" href="assets/css/main.css" />
-  <link rel="stylesheet" href="assets/css/media.css" />
-  <link rel="stylesheet" href="assets/css/backgrounds.css" />
-  <link rel="stylesheet" href="assets/css/gold.css" />
-  <script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A053bd947d462cc1a45aeba4070defff75501905071c0eaf68436ac9976ec698c&amp;id=mymap"></script>
+  <link rel="stylesheet" href="/assets/libs/bootstrap/css/bootstrap.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link rel="stylesheet" href="/assets/libs/font-awesome-4.3.0/css/font-awesome.min.css" />
+  <link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/libs/fancybox/jquery.fancybox.css" />
+  <link rel="stylesheet" href="/assets/libs/owl-carousel/owl.carousel.css" />
+  <link rel="stylesheet" href="/assets/libs/countdown/jquery.countdown.css" />
+  <link rel="stylesheet" href="/assets/feedback/css/jquery.arcticmodal.css">
+  <link rel="stylesheet" href="/assets/css/animate.css" />
+  <link rel="stylesheet" href="/assets/css/fonts.css" />
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <link rel="stylesheet" href="/assets/css/media.css" />
+  <link rel="stylesheet" href="/assets/css/backgrounds.css" />
+  <link rel="stylesheet" href="/assets/css/gold.css" />
+  <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A23def4c814de3e7338f5822ff674028a5cb84073f9476c9cf3c327cfd8421b12&amp;width=100%25&amp;height=400&amp;lang=ru_UA&amp;scroll=true&amp;id=mymap""></script>
+  <script>
+  
+
+
+  </script>
 </head>
 
 <body>
@@ -45,7 +52,9 @@
           </span>
         </button>
         <a class="navbar-brand" href="">
-          <img src="assets/images/logo/logo_condensed_dark.png" alt="" class="logo" /></a>
+        <a href="" class="logo">
+            <span class="logo-text black">CAR-PARTS.COM.UA</span>
+          </a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav top_mnu">
@@ -59,7 +68,7 @@
             <a href="#payment">Оплата</a>
           </li>
           <li>
-            <a href="#delivery">Доставка</a>
+            <a href="#about-us">О нас</a>
           </li>
           <li>
             <a href="#contacts">Контакты</a>
@@ -68,7 +77,7 @@
         <ul class="nav navbar-nav navbar-right text-center">
           <li class="text-center">
             <span class="phone">
-              <span class="top-phone">+7 (978) 922 92 22</span>
+              <span class="top-phone"><a href="tel:+79789229222" style="font-size: 25px">+7 (978) 922 92 22</a></span>
             </span><br>
             <span class="call-back modal_btn2">
               <i class="fa fa-mobile"></i> Мы вам перезвоним
@@ -86,11 +95,12 @@
       <div class="row">
         <div class="col-md-6 col-sm-6 col-xs-12 pull-left">
           <a href="" class="logo">
-            <img src="assets/images/logo/logo_white.png" alt="logo" class="img-responsive" /></a>
+            <span class="logo-text">CAR-PARTS.COM.UA</span>
+          </a>
         </div>
         <div class="col-md-6 col-sm-6 col-xs-12 pull-right">
           <div class="text-right"> Подбор и заказ запчастей, c 10:00 до 18:00
-            <span class="top-phone">+7 (978) 922 92 22</span>
+            <span class="top-phone"><a href="tel:+79789229222">+7 (978) 922 92 22</a></span>
             <span class="call-back modal_btn2">
               <i class="fa fa-mobile"></i> Позвонить нам бесплатно
             </span>
@@ -103,7 +113,7 @@
           <p class="lead wow fadeInUp" data-wow-delay="0.7s">Быстрый подбор запчастей за 5 минут. Оригинальные и качественные аналоги.
           </p>
           <p>
-            <span class="myButton modal_btn wow fadeInUp" data-wow-delay="1.2s">Оставить заявку на подбор запчасти
+            <span class="myButton modal_btn wow fadeInUp" data-wow-delay="1.2s">Оставить заявку
             </span>
           </p>
           <p class="lead wow fadeInUp" data-wow-delay="1s">Скидка 3% на весь товар при заказе через сайт до 31.05.2019 г.
@@ -594,7 +604,7 @@
             </div>
             <h4>Быстрая доставка</h4>
             <p>Вам лишь необходимо согласовать время и день доставки. По договорённости осуществляем доставку товаров в выходные и праздничные дни. Все подробности по стоимости и срокам доставки можно уточнить по телефону:<br>
-              <span class="phone-service">+7 (978) 922 92 22<br></span>
+              <span class="phone-service"><a href="tel:+79789229222">+7 (978) 922 92 22</a><br></span>
             </p>
           </div>
           <div class="buttons">
@@ -706,13 +716,13 @@
                     <p>Скидка 3% на весь товар при заказе через сайт до 31.05.2019 г.
                     </p>
                     <p>Звоните прямо сейчас! <br>
-                      <span class="top-phone">+7 (978) 922 92 22&nbsp;</span> <br>
+                      <span class="top-phone"><a href="tel:+79789229222">+7 (978) 922 92 22</a>&nbsp;</span> <br>
                       <span class="call-back-white modal_btn2">
                         <i class="fa fa-mobile"></i> Заказать бесплатный звонок
                       </span>
                     </p>
                     <p>
-                      <span class="myButton modal_btn">Оставить заявку на подбор запчасти
+                      <span class="myButton modal_btn">Оставить заявку
                       </span>
                     </p>
                   </div>
@@ -787,32 +797,49 @@
     <div class="container">
       <div class="row">
         <div class="col-md-5 pt-5 wow fadeInLeft" data-wow-delay="0.5s">
-          <img src="assets/images/elements/cards-gold_paywave.png" alt="" class="img-responsive" />
+        <i class="fas fa-money-check-alt"></i>
         </div>
         <div class="col-md-7">
           <h2>Варианты оплаты</h2>
           <p class="lead">Оплату можно производить 2 способами:
           </p>
-          <p> <strong>Наличными</strong> - при самовывозе из пункта выдачи интернет-магазина по адресу&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; г. Ялта ул. Кирова 83б офис 4-6</p>
-          <p> <strong>Безналичный расчет</strong> - мы осуществляем расчет с государственными и коммерческими предприятиями, согласно законодательству РФ.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;С возможностью отсрочки платежа.</p>
+          <p> <strong>Наличными</strong> - при самовывозе из пункта выдачи интернет-магазина по адресу <br> г. Ялта ул. Кирова 83б офис 4-6</p>
+          <p> <strong>Безналичный расчет</strong> - мы осуществляем расчет с государственными и коммерческими предприятиями, согласно законодательству РФ. <br> С возможностью отсрочки платежа.</p>
           <span class="myButton modal_btn">Подобрать запчасти
           </span>
         </div>
       </div>
     </div>
   </section>
-  <section id="about-us">
-    <div class="container text-center">
+  <section id="about-us" style="background-color: #e9edf0">
+    <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h2>О компании</h2>
+          <h2 class="text-center">О компании</h2>
         </div>
-        <div class="col-md-4">
-          <span class="icon-circle">
-
-          </span>
-          <h3><b>Отправляем в течении 24 часов</b></h3>
-          <p>Любой заказ формируеться за сутки и отправляеться адресату</p>
+        <div class="col-md-9">
+          <p style="font-size: 18px"><b>Компания "car-parts.ru.com" основана в 2012 и на сегодняшний день являеться успешной организацие по оптово-розничной продаже запчастей для любых автомобилей</b></p>
+          <p>В настоящий момент основу ассортимента компании составляет сертифицированная продукция ведущих производителей со всего мира.</p>
+        </div>
+        <div class="col-md-3 mb-45 hidden-sm hidden-xs">
+          <img src="/assets/images/elements/car-good.svg" width="100%" alt="">
+        </div>
+      </div>
+      <div class="row space-between count-blocks">
+        <div class="count-block">
+          <span class="count">150</span>
+          <span class="caption">положительных отзывов</span>
+          <i class="far fa-comments"></i>
+        </div>
+        <div class="count-block">
+          <span class="count">67%</span>
+          <span class="caption">клиентов обратились повторно</span>
+          <i class="fas fa-user-tie"></i>
+        </div>
+        <div class="count-block">
+          <span class="count">3000</span>
+          <span class="caption">часов секономили клиенты</span>
+          <i class="fas fa-history"></i>
         </div>
       </div>
     </div>
@@ -840,15 +867,15 @@
         </div>
         <div class="col-md-11">
           <div class="contact_info contact_info-footer text-center">
-            <form action="" method="get" name="form-1">
+            <form action="/controllers/mail.php" method="get" name="form-1">
               <div class="form-holder">
                 <div class="form-side">
-                  <input name="phone" type="text" placeholder="Ваш телефон" />
-                  <input name="model" type="text" placeholder="Модель" />
+                  <input name="phone" type="tel" placeholder="Ваш телефон" require />
+                  <input name="type" type="text" placeholder="Марка" require/>
                 </div>
                 <div class="form-side">
-                  <input name="type" type="text" placeholder="Марка" />
-                  <input name="number" type="text" placeholder="Номер кузова и шасси" />
+                  <input name="model" type="text" placeholder="Модель" require/>
+                  <input name="number" type="text" placeholder="Номер кузова" require/>
                 </div>
               </div>
               <button class="feedback myButton" name="send" type="submit">Отправить заявку
@@ -881,7 +908,7 @@
             </div>
             <h3>Телефон</h3>
             <p>
-              <span class="footer-phone">+7 (978) 922 92 22</span><br>
+              <span class="footer-phone"><a href="tel:+79789229222">+7 (978) 922 92 22</a></span><br>
               <span class="call-back modal_btn2">
                 <i class="fa fa-mobile"></i> Заказать обратный звонок
               </span>
@@ -908,7 +935,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12 space-between">
-          <span>&copy; Магазин автозапчастей «Авторуль»</span>
+          <span>&copy; Магазин автозапчастей "car-parts.ru.com"</span>
           <span>г. Ялта ул. Кирова 83б офис 4-6</span>
           <span class="modal_btn_copy">Политика конфиденциальности</span>
         </div>
@@ -923,6 +950,7 @@
 <![endif]-->
 
   <script src="assets/libs/jquery/jquery-1.11.1.min.js"></script>
+  <script src="/assets/js/jquery.mask.min.js"></script>
   <script src="assets/libs/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/libs/fancybox/jquery.fancybox.pack.js"></script>
   <script src="assets/libs/owl-carousel/owl.carousel.min.js"></script>
@@ -989,11 +1017,11 @@
             <div class="contact_form">
               <div class="row">
                 <div class="col-md-12 contact_info">
-                  <form action="" method="get" name="form-1">
+                  <form action="/controllers/mail.php" method="get" name="form-1">
                     <div class="input-prepend">
-                      <input name="phone" type="text" placeholder="Введите контактный телефон" />
+                      <input name="phone" type="tel" placeholder="Введите контактный телефон" require/>
                     </div>
-                    <button class="feedback myButton" name="send" type="button">Перезвоните мне
+                    <button class="feedback myButton" name="send" type="submit">Перезвоните мне
                     </button>
                   </form>
                   <span class="little">
@@ -1022,20 +1050,19 @@
                 <div class="col-md-12">
                   <p class="lead text-center">После отправки заявки мы с Вами свяжемся <br>по указанным контактам для уточнения деталей
                   </p>
-                  <form action="" method="get" name="form-2">
-                    <div class="input-prepend">
-                      <textarea class="input-lage focused" name="text" placeholder="Напишите интересующие вас запчасти, а также укажите VIN номер автомобиля, марку и модель, год выпуска и объем двигателя. Это поможет нам быстрей подобрать для вас запчасти."></textarea>
-                    </div>
-                    <div class="input-prepend">
-                      <input name="name" type="text" placeholder="Введите ваше имя" />
-                    </div>
-                    <div class="input-prepend">
-                      <input name="email" type="text" placeholder="Введите корректный e-mail" />
-                    </div>
-                    <div class="input-prepend">
-                      <input name="phone" type="text" placeholder="Введите контактный телефон" />
-                    </div>
-                    <button class="feedback myButton" name="send" type="button">Подобрать запчасти
+                  <form action="/controllers/mail.php" method="get" name="form-2">
+   
+                  <div class="form-holder">
+                <div class="form-side">
+                  <input name="phone" type="tel" placeholder="Ваш телефон" require/>
+                  <input name="type" type="text" placeholder="Марка" require/>
+                </div>
+                <div class="form-side">
+                  <input name="model" type="text" placeholder="Модель" require/>
+                  <input name="number" type="text" placeholder="Номер кузова" require/>
+                </div>
+              </div>
+                    <button class="feedback myButton" name="send" type="submit">Подобрать запчасти
                     </button>
                   </form>
                   <span class="little">
