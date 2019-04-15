@@ -900,7 +900,7 @@
                   <input name="number" type="text" placeholder="Номер кузова" required/>
                 </div>
               </div>
-              <button class="feedback myButton" name="send" type="submit">Отправить заявку
+              <button class="feedback myButton" name="send" onclick="ym(54687, 'reachGoal', 'TARGET_NAME'); return true;"   type="submit">Отправить заявку
               </button>
             </form>
             <span class="little">
@@ -1043,7 +1043,7 @@
                     <div class="input-prepend">
                       <input name="phone" type="tel" placeholder="Введите контактный телефон" required/>
                     </div>
-                    <button class="feedback myButton" name="send" type="submit">Перезвоните мне
+                    <button class="feedback myButton" name="send" onclick="ym(54687, 'reachGoal', 'TARGET_NAME'); return true;"   type="submit">Перезвоните мне
                     </button>
                   </form>
                   <span class="little">
@@ -1084,7 +1084,7 @@
                   <input name="number" type="text" placeholder="Номер кузова" required/>
                 </div>
               </div>
-                    <button class="feedback myButton" name="send" type="submit">Подобрать запчасти
+                    <button class="feedback myButton" name="send" onclick="ym(54687, 'reachGoal', 'TARGET_NAME'); return true;"   type="submit">Подобрать запчасти
                     </button>
                   </form>
                   <span class="little">
