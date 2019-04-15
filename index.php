@@ -9,11 +9,19 @@
 <head>
   <meta charset="utf-8" />
   <title>Магазин Автозапчастей car-parts.ru.com</title>
-  <meta name="description" content="Купить автозапчасти в Крыму по выгодной цене" />
-  <meta name="keywords" content="автомагазин, автомагазин, автомагазин крым, авто магазин крым" />
+  <meta name="description" content="Купить автозапчасти в Ялте по выгодной цене. Подбор и заказ запчастей: +7 (978) 922 92 22" />
+  <meta name="keywords" content="автомагазин, автомагазин, автомагазин крым, авто магазин Ялта, подбор автозапчастей, подбор автозапчастей ялта" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="shortcut icon" href="/assets/images/favicon.ico" />
+  <meta property="og:image" content="/assets/images/favicon.ico">
+	<link href="/assets/images/favicon.ico" rel="shortcut icon" />
+<link href="/assets/images/favicon.ico" rel="icon" type="image/x-icon" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon.ico">
+	<!-- Template Basic Images End -->
+
+	<!-- Custom Browsers Color Start -->
+	<meta name="theme-color" content="#00bebe">
+
   <link rel="stylesheet" href="/assets/libs/bootstrap/css/bootstrap.css" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
   <link rel="stylesheet" href="/assets/libs/font-awesome-4.3.0/css/font-awesome.min.css" />
@@ -29,6 +37,22 @@
   <link rel="stylesheet" href="/assets/css/backgrounds.css" />
   <link rel="stylesheet" href="/assets/css/gold.css" />
   <script type="text/javascript" charset="utf-8" async src="//api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A23def4c814de3e7338f5822ff674028a5cb84073f9476c9cf3c327cfd8421b12&amp;width=100%25&amp;height=400&amp;lang=ru_UA&amp;scroll=true&amp;id=mymap""></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(53296600, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/53296600" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 </head>
 
 <body>
