@@ -8,12 +8,12 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Магазин Автозапчастей</title>
+  <title>Магазин Автозапчастей car-parts.ru.com</title>
   <meta name="description" content="Купить автозапчасти в Крыму по выгодной цене" />
   <meta name="keywords" content="автомагазин, автомагазин, автомагазин крым, авто магазин крым" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="shortcut icon" href="assets/images/favicon.ico" />
+  <link rel="shortcut icon" href="/assets/images/favicon.ico" />
   <link rel="stylesheet" href="/assets/libs/bootstrap/css/bootstrap.css" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
   <link rel="stylesheet" href="/assets/libs/font-awesome-4.3.0/css/font-awesome.min.css" />
