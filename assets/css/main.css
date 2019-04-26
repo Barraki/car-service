@@ -1643,6 +1643,16 @@ section#features .feature-boxes.type-4 .feature-box:hover .feature-icon {
   color: #e9292a;
 }
 
+textarea::-webkit-input-placeholder {
+  color: #fff;
+}
+
+textarea:-moz-placeholder{
+  color: #fff;
+}
+#big-modal textarea::-webkit-input-placeholder {
+  color: #333
+}
 @media (min-width: 991px) {
 .container > .navbar-header {
 	margin-right: 50px;

@@ -898,8 +898,10 @@
                 <div class="form-side">
                   <input name="model" type="text" placeholder="Модель" required/>
                   <input name="number" type="text" placeholder="Номер кузова" required/>
+                  
                 </div>
               </div>
+              <textarea name="detail" type="text" placeholder="Деталь которая вам нужна" required/></textarea>
               <button class="feedback myButton" name="send" onclick="ym(54687, 'reachGoal', 'TARGET_NAME'); return true;"   type="submit">Отправить заявку
               </button>
             </form>
@@ -1082,6 +1084,7 @@
                 <div class="form-side">
                   <input name="model" type="text" placeholder="Модель" required/>
                   <input name="number" type="text" placeholder="Номер кузова" required/>
+                  <textarea name="detail" type="text" placeholder="Деталь которая вам нужна" required/></textarea>
                 </div>
               </div>
                     <button class="feedback myButton" name="send" onclick="ym(54687, 'reachGoal', 'TARGET_NAME'); return true;"   type="submit">Подобрать запчасти
