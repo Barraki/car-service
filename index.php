@@ -14,13 +14,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta property="og:image" content="/assets/images/favicon.ico">
-	<link href="/assets/images/favicon.ico" rel="shortcut icon" />
-<link href="/assets/images/favicon.ico" rel="icon" type="image/x-icon" />
-	<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon.ico">
-	<!-- Template Basic Images End -->
+  <link href="/assets/images/favicon.ico" rel="shortcut icon" />
+  <link href="/assets/images/favicon.ico" rel="icon" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon.ico">
+  <!-- Template Basic Images End -->
 
-	<!-- Custom Browsers Color Start -->
-	<meta name="theme-color" content="#00bebe">
+  <!-- Custom Browsers Color Start -->
+  <meta name="theme-color" content="#00bebe">
 
   <link rel="stylesheet" href="/assets/libs/bootstrap/css/bootstrap.css" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
@@ -39,20 +39,27 @@
   <script type="text/javascript" charset="utf-8" async src="//api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A23def4c814de3e7338f5822ff674028a5cb84073f9476c9cf3c327cfd8421b12&amp;width=100%25&amp;height=400&amp;lang=ru_UA&amp;scroll=true&amp;id=mymap""></script>
 
 <!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+<script type=" text/javascript">
+    (function(m, e, t, r, i, k, a) {
+      m[i] = m[i] || function() {
+        (m[i].a = m[i].a || []).push(arguments)
+      };
+      m[i].l = 1 * new Date();
+      k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
-   ym(53296600, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/53296600" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+    ym(53296600, "init", {
+      clickmap: true,
+      trackLinks: true,
+      accurateTrackBounce: true,
+      webvisor: true
+    });
+  </script>
+  <noscript>
+    <div><img src="https://mc.yandex.ru/watch/53296600" style="position:absolute; left:-9999px;" alt="" /></div>
+  </noscript>
+  <!-- /Yandex.Metrika counter -->
 </head>
 
 <body>
@@ -71,7 +78,7 @@
           </span>
         </button>
         <a class="navbar-brand" href="">
-        <a href="" class="logo">
+          <a href="" class="logo">
             <span class="logo-text black">CAR-PARTS.COM.RU</span>
           </a>
       </div>
@@ -816,13 +823,13 @@
     <div class="container">
       <div class="row">
         <div class="col-md-5 pt-5 wow fadeInLeft desktop" data-wow-delay="0.5s">
-        <i class="fas fa-money-check-alt"></i>
+          <i class="fas fa-money-check-alt"></i>
         </div>
         <div class="col-md-7">
           <h2>Варианты оплаты</h2>
           <div class="col-md-5 pt-5 wow fadeInLeft mobile" data-wow-delay="0.5s">
-        <i class="fas fa-money-check-alt"></i>
-        </div>
+            <i class="fas fa-money-check-alt"></i>
+          </div>
           <p class="lead">Оплату можно производить 2 способами:
           </p>
           <p> <strong>Наличными</strong> - при самовывозе из пункта выдачи интернет-магазина по адресу <br> г. Ялта ул. Кирова 83б офис 4-6</p>
@@ -890,19 +897,24 @@
         <div class="col-md-11">
           <div class="contact_info contact_info-footer text-center">
             <form action="/controllers/mail.php" method="get" name="form-1">
+              <!-- Hidden Required Fields -->
+              <input type="hidden" name="project_name" value="car-parts.com.ru">
+              <input type="hidden" name="admin_email" value="Barraki201@gmail.com">
+              <input type="hidden" name="form_subject" value="Заявки с сайта">
+              <!-- END Hidden Required Fields -->
               <div class="form-holder">
                 <div class="form-side">
-                  <input name="phone" type="tel" placeholder="Ваш телефон" required/>
-                  <input name="type" type="text" placeholder="Марка" required/>
+                  <input name="phone" type="tel" placeholder="Ваш телефон" required />
+                  <input name="type" type="text" placeholder="Марка" required />
                 </div>
                 <div class="form-side">
-                  <input name="model" type="text" placeholder="Модель" required/>
-                  <input name="number" type="text" placeholder="Номер кузова" required/>
-                  
+                  <input name="model" type="text" placeholder="Модель" required />
+                  <input name="number" type="text" placeholder="Номер кузова" required />
+
                 </div>
               </div>
-              <textarea name="detail" type="text" placeholder="Деталь которая вам нужна" required/></textarea>
-              <button class="feedback myButton" name="send" onclick="ym(54687, 'reachGoal', 'TARGET_NAME'); return true;"   type="submit">Отправить заявку
+              <textarea name="detail" type="text" placeholder="Деталь которая вам нужна" required /></textarea>
+              <button class="feedback myButton" name="send" onclick="ym(54687, 'reachGoal', 'TARGET_NAME'); return true;" type="submit">Отправить заявку
               </button>
             </form>
             <span class="little">
@@ -1042,10 +1054,15 @@
               <div class="row">
                 <div class="col-md-12 contact_info">
                   <form action="/controllers/mail.php" method="get" name="form-1">
+                                <!-- Hidden Required Fields -->
+              <input type="hidden" name="project_name" value="car-parts.com.ru">
+              <input type="hidden" name="admin_email" value="Barraki201@gmail.com">
+              <input type="hidden" name="form_subject" value="Заявки с сайта">
+              <!-- END Hidden Required Fields -->
                     <div class="input-prepend">
-                      <input name="phone" type="tel" placeholder="Введите контактный телефон" required/>
+                      <input name="phone" type="tel" placeholder="Введите контактный телефон" required />
                     </div>
-                    <button class="feedback myButton" name="send" onclick="ym(54687, 'reachGoal', 'TARGET_NAME'); return true;"   type="submit">Перезвоните мне
+                    <button class="feedback myButton" name="send" onclick="ym(54687, 'reachGoal', 'TARGET_NAME'); return true;" type="submit">Перезвоните мне
                     </button>
                   </form>
                   <span class="little">
@@ -1075,19 +1092,23 @@
                   <p class="lead text-center">После отправки заявки мы с Вами свяжемся <br>по указанным контактам для уточнения деталей
                   </p>
                   <form action="/controllers/mail.php" method="get" name="form-2">
-   
-                  <div class="form-holder">
-                <div class="form-side">
-                  <input name="phone" type="tel" placeholder="Ваш телефон" required/>
-                  <input name="type" type="text" placeholder="Марка" required/>
-                </div>
-                <div class="form-side">
-                  <input name="model" type="text" placeholder="Модель" required/>
-                  <input name="number" type="text" placeholder="Номер кузова" required/>
-                  <textarea name="detail" type="text" placeholder="Деталь которая вам нужна" required/></textarea>
-                </div>
-              </div>
-                    <button class="feedback myButton" name="send" onclick="ym(54687, 'reachGoal', 'TARGET_NAME'); return true;"   type="submit">Подобрать запчасти
+              <!-- Hidden Required Fields -->
+              <input type="hidden" name="project_name" value="car-parts.com.ru">
+              <input type="hidden" name="admin_email" value="Barraki201@gmail.com">
+              <input type="hidden" name="form_subject" value="Заявки с сайта">
+              <!-- END Hidden Required Fields -->
+                    <div class="form-holder">
+                      <div class="form-side">
+                        <input name="phone" type="tel" placeholder="Ваш телефон" required />
+                        <input name="type" type="text" placeholder="Марка" required />
+                      </div>
+                      <div class="form-side">
+                        <input name="model" type="text" placeholder="Модель" required />
+                        <input name="number" type="text" placeholder="Номер кузова" required />
+                        <textarea name="detail" type="text" placeholder="Деталь которая вам нужна" required /></textarea>
+                      </div>
+                    </div>
+                    <button class="feedback myButton" name="send" onclick="ym(54687, 'reachGoal', 'TARGET_NAME'); return true;" type="submit">Подобрать запчасти
                     </button>
                   </form>
                   <span class="little">

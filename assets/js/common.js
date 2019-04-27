@@ -116,7 +116,7 @@ $(document).ready(function () {
 
   $('input[name=phone]').mask('+7 (999) 999 99-99');
   //E-mail Ajax Send
-$('form[name="form-1"], form[name="form-2"]').submit(function () { //Change
+$('form').submit(function () { //Change
 	var th = $(this);
 	$.ajax({
 		type: "POST",
